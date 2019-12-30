@@ -1,0 +1,39 @@
+.steps-blocks-container {
+    margin: 0;
+    padding: 0;
+    line-height: 2;
+    color: #2c3e50;
+}
+
+.steps-blocks-container .step-block {
+    position: relative;
+    width: 30%;
+    padding: 20px;
+    margin: 40px auto;
+    text-align: center;
+    border: solid 2px #2c3e50;
+}
+
+.steps-blocks-container .step-block .number {
+    position: absolute;
+    font-size: 16px;
+    font-weight: 900;
+    color: #ffffff;
+    background-color: #2c3e50;
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);  
+}
+
+.steps-blocks-container .step-block .icon i {
+    padding: 5px 0;
+    font-size: xx-large;
+}
+
+.steps-blocks-container .step-block .title {
+    padding: 5px 0;
+    font-size: large;
+}
