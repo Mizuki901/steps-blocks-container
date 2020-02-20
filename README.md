@@ -1,12 +1,6 @@
 # steps-blocks-container
 
-`steps-blocks-container` is CSS library for expressing steppers on your html.
-
-## Installation
-
-## Usage
-
-Example:
+`steps-blocks-container` is CSS expressing for steps-blocks on your html.
 
 ## License
 
